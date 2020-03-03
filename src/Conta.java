@@ -1,6 +1,6 @@
 
 public class Conta {
-  public long numeroConta;
-  public long saldoConta;
+  public double numeroConta;
+  public double saldoConta;
   
 }
